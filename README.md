@@ -38,9 +38,9 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I get focused while listening to [Forgotten Odes - Violin](https://youtu.be/iceS6BvhuQ8).
 
-[![Twitter: rakshitmeshram](https://img.shields.io/twitter/follow/rakshitmeshram?style=social)](https://twitter.com/rakshitmeshram)
+
 [![Linkedin: rakshitmeshram](https://img.shields.io/badge/-rakshitmeshram-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rakshitmeshram/)](https://www.linkedin.com/in/rakshitmeshram/)
-[![GitHub RakshitMeshram](https://img.shields.io/github/followers/RakshitMeshram?label=follow&style=social)](https://github.com/RakshitMeshram)
+
 [![website](https://img.shields.io/badge/PortfolioWebsite-rakshit.live-2648ff?style=flat-square&logo=google-chrome)](https://rakshit.live/)
 
 
