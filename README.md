@@ -32,7 +32,7 @@
 - 👯 I’m looking to collaborate on Ches Engine.
 - 🤔 I’m looking for help with Chess Engine documentation.
 - 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [LinkedIn - @rakshitmeshram](https://www.linkedin.com/in/rakshitmeshram/)
+- 📫 How to reach me: [LinkedIn - @rakshitmeshram](https://in.linkedin.com/in/rakshit-meshram17213)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I get focused while listening to [Forgotten Odes - Violin](https://youtu.be/iceS6BvhuQ8).
 
@@ -48,7 +48,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
 <a href="https://github.com/RakshitMeshram">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakshitMeshram&theme=light&hide_langs_below=1" />
