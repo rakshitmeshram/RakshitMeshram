@@ -1,4 +1,4 @@
-## Hola, I'm [Rakshit Meshram!](https://rakshit.live) 👋
+## Hola, I'm [Rakshit Meshram!](https://mrakshit.in) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RakshitMeshram&label=Views&color=blue&style=plastic" alt="Rakshit Meshram" /> </p>
 
@@ -40,7 +40,7 @@
 
 
 [![Linkedin: rakshitmeshram](https://img.shields.io/badge/-rakshitmeshram-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rakshitmeshram/)](https://www.linkedin.com/in/rakshitmeshram/)
-[![website](https://img.shields.io/badge/PortfolioWebsite-rakshit.live-2648ff?style=flat-square&logo=google-chrome)](https://rakshit.live/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-rakshit.live-2648ff?style=flat-square&logo=google-chrome)](https://mrakshit.in/)
 
 
 **Languages and Tools:**  
