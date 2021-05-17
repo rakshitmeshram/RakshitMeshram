@@ -5,22 +5,20 @@
 <a href="https://twitter.com/rakshitmeshram">
   <img align="left" alt="Rakshit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/rakshitmeshram">
+<a href="https://in.linkedin.com/in/rakshit-meshram17213">
   <img align="left" alt="Rakshit's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/RakshitMeshram">
   <img align="left" alt="Rakshit's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/RakshitMeshram">
-  <img align="left" alt="Rakshit's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://instagram.com/rakshitm_9/">
   <img align="left" alt="Rakshit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/rakshitmeshram/">
+<a href="https://www.facebook.com/rakshit.meshram.Mr.R">
   <img align="left" alt="Rakshit's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/rakshitmeshram/">
+<a href="https://www.youtube.com/channel/UCcxYLhBSawzjx-FBFJNQ9mA/featured">
   <img align="left" alt="Rakshit's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
@@ -39,7 +37,7 @@
 - ⚡ Fun fact: I get focused while listening to [Forgotten Odes - Violin](https://youtu.be/iceS6BvhuQ8).
 
 
-[![Linkedin: rakshitmeshram](https://img.shields.io/badge/-rakshitmeshram-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rakshitmeshram/)](https://www.linkedin.com/in/rakshitmeshram/)
+[![Linkedin: rakshitmeshram](https://img.shields.io/badge/-rakshitmeshram-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rakshitmeshram/)](https://in.linkedin.com/in/rakshit-meshram17213)
 [![website](https://img.shields.io/badge/PortfolioWebsite-mrakshit.in-2648ff?style=flat-square&logo=google-chrome)](https://mrakshit.in/)
 
 
