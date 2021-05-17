@@ -40,7 +40,7 @@
 
 
 [![Linkedin: rakshitmeshram](https://img.shields.io/badge/-rakshitmeshram-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rakshitmeshram/)](https://www.linkedin.com/in/rakshitmeshram/)
-[![website](https://img.shields.io/badge/PortfolioWebsite-rakshit.live-2648ff?style=flat-square&logo=google-chrome)](https://mrakshit.in/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-mrakshit.in-2648ff?style=flat-square&logo=google-chrome)](https://mrakshit.in/)
 
 
 **Languages and Tools:**  
