@@ -31,10 +31,10 @@
 
 - 🔭 I’m currently working on Chess Engine.
 - 🌱 I’m currently learning more about Flutter.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/rakshitmeshram).
+- 👯 I’m looking to collaborate on Ches Engine.
 - 🤔 I’m looking for help with Chess Engine documentation.
 - 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @rakshitmeshram](https://twitter.com/rakshitmeshram) , [Youtube - @rakshitmeshram](https://youtube.com/rakshitmeshram)
+- 📫 How to reach me: [LinkedIn - @rakshitmeshram](https://www.linkedin.com/in/rakshitmeshram/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I get focused while listening to [Forgotten Odes - Violin](https://youtu.be/iceS6BvhuQ8).
 
