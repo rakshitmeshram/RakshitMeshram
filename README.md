@@ -27,11 +27,11 @@
 
 
 
-- 🔭 I’m currently working on Chess Engine.
+- 🔭 I’m currently working on [Technical Screener for Indian Markets](https://techscreen-api-heroku.herokuapp.com/).
 - 🌱 I’m currently learning more about Flutter.
-- 👯 I’m looking to collaborate on Ches Engine.
-- 🤔 I’m looking for help with Chess Engine documentation.
-- 💬 Ask me about Flutter or any tech related stuff.
+- 👯 I’m looking to collaborate on Finance related projects.
+- 🤔 I’m looking for help with Techinal Screener documentation.
+- 💬 Ask me about Technical Analysis related stuff.
 - 📫 How to reach me: [LinkedIn - @rakshitmeshram](https://in.linkedin.com/in/rakshit-meshram17213)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I get focused while listening to [Forgotten Odes - Violin](https://youtu.be/iceS6BvhuQ8).
