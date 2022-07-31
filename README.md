@@ -35,7 +35,7 @@
 <a href="https://github.com/RakshitMeshram">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RakshitMeshram&show_icons=true&theme=chartreuse-dark&line_height=27" alt="Rakshit's github stats"/>
 </a>
-<a href="https://github.com/RakshitMeshram/30DaysOfFlutter">
+<a href="https://github.com/RakshitMeshram/Task-Manager">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RakshitMeshram&repo=Task-Manager&theme=chartreuse-dark" />
 
 </a>
