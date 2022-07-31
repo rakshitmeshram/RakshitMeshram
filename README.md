@@ -1,4 +1,4 @@
-## Hola, I'm Rakshit Meshram 👋
+## Namaste🙏 I'm Rakshit Meshram
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RakshitMeshram&label=Views&color=green&style=plastic" alt="Rakshit Meshram" /> </p>
 
