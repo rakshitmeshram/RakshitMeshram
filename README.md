@@ -2,10 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RakshitMeshram&label=Views&color=green&style=plastic" alt="Rakshit Meshram" /> </p>
 
-
 <br/>
-<br/>
-
 
 
 - 🔭 Building Node Projects every weekend.
