@@ -1,6 +1,6 @@
 ## Hola, I'm [Rakshit Meshram!](https://mrakshit.in) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RakshitMeshram&label=Views&color=blue&style=plastic" alt="Rakshit Meshram" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RakshitMeshram&label=Views&color=green&style=plastic" alt="Rakshit Meshram" /> </p>
 
 <a href="https://twitter.com/rakshitmeshram">
   <img align="left" alt="Rakshit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
