@@ -30,17 +30,17 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
 <a href="https://github.com/RakshitMeshram">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakshitMeshram&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakshitMeshram&theme=merko&hide_langs_below=1" />
 </a>
 <a href="https://github.com/RakshitMeshram">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=RakshitMeshram&show_icons=true&theme=dark&line_height=27" alt="Rakshit's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=RakshitMeshram&show_icons=true&theme=merko&line_height=27" alt="Rakshit's github stats"/>
 </a>
 <a href="https://github.com/RakshitMeshram/30DaysOfFlutter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RakshitMeshram&repo=30DaysOfFlutter&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RakshitMeshram&repo=30DaysOfFlutter&theme=merko" />
 
 </a>
 <a href="https://github.com/RakshitMeshram/Advanced-Recommender-Systems">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RakshitMeshram&repo=Advanced-Recommender-Systems&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RakshitMeshram&repo=Advanced-Recommender-Systems&theme=merko" />
 </a>
 
 <div align="center">
