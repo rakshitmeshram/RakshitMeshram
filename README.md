@@ -2,25 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RakshitMeshram&label=Views&color=green&style=plastic" alt="Rakshit Meshram" /> </p>
 
-<a href="https://twitter.com/rakshitmeshram">
-  <img align="left" alt="Rakshit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://in.linkedin.com/in/rakshit-meshram17213">
-  <img align="left" alt="Rakshit's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/RakshitMeshram">
-  <img align="left" alt="Rakshit's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-</a>
-<a href="https://instagram.com/rakshitm_9/">
-  <img align="left" alt="Rakshit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/rakshit.meshram.Mr.R">
-  <img align="left" alt="Rakshit's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCcxYLhBSawzjx-FBFJNQ9mA/featured">
-  <img align="left" alt="Rakshit's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
 
 <br/>
 <br/>
