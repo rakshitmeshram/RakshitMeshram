@@ -27,13 +27,9 @@
 
 
 
-- 🔭 I’m currently working on [Technical Screener for Indian Markets](https://techscreen-api-heroku.herokuapp.com/).
-- 🌱 I’m currently learning more about Flutter.
-- 👯 I’m looking to collaborate on Finance, ML and DeFi related projects.
-- 🤔 I’m looking for help with Techinal Screener documentation.
-- 💬 Ask me about Technical Analysis related stuff.
+- 🔭 Building Node Projects every weekend.
+- 🌱 I’m a Node guy, I love API's and backend.
 - 📫 How to reach me: [LinkedIn - @rakshitmeshram](https://in.linkedin.com/in/rakshit-meshram17213)
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I get focused while listening to [Forgotten Odes - Violin](https://youtu.be/iceS6BvhuQ8).
 
 
