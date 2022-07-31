@@ -28,6 +28,7 @@
 
 </br>
 
+<div align="center">
 <a href="https://github.com/RakshitMeshram">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakshitMeshram&theme=chartreuse-dark&langs_count=3" />
 </a>
@@ -41,6 +42,8 @@
 <a href="https://github.com/RakshitMeshram/Advanced-Recommender-Systems">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RakshitMeshram&repo=Advanced-Recommender-Systems&theme=chartreuse-dark" />
 </a>
+
+</div>
 
 <div align="center">
 
