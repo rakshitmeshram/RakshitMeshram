@@ -8,7 +8,7 @@
 - 🔭 Learing by Building
 - 🌱 I’m a Python guy, I have hands on experience in building API's and microservices.
 - 📫 How to reach me: [LinkedIn - @rakshitmeshram](https://in.linkedin.com/in/rakshit-meshram17213)
-- ⚡ Fun fact: I get focused while listening to [Forgotten Odes - Violin](https://youtu.be/iceS6BvhuQ8).
+
 
 
 [![Linkedin: rakshitmeshram](https://img.shields.io/badge/-rakshitmeshram-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rakshitmeshram/)](https://in.linkedin.com/in/rakshit-meshram17213)
