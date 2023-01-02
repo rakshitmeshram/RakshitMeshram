@@ -1,6 +1,6 @@
 ## Namaste🙏 I'm Rakshit Meshram
 
-![Codewars](https://www.codewars.com/users/triplord/badges/micro)
+![Codewars](https://www.codewars.com/users/triplord/badges/large)
 
 <br/>
 
