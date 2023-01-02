@@ -1,7 +1,7 @@
 ## Namaste🙏 I'm Rakshit Meshram
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RakshitMeshram&label=Views&color=green&style=plastic" alt="Profile Views" /> </p>
-![image](https://www.codewars.com/users/triplord/badges/micro)
+![Codewars](https://www.codewars.com/users/triplord/badges/micro)
+
 <br/>
 
 
