@@ -1,7 +1,7 @@
 ## Namaste🙏 I'm Rakshit Meshram
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RakshitMeshram&label=Views&color=green&style=plastic" alt="Rakshit Meshram" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RakshitMeshram&label=Views&color=green&style=plastic" alt="Profile Views" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=RakshitMeshram](https://www.codewars.com/users/triplord/badges/micro)&label=Codewars Rating&color=green&style=plastic" alt="Codewars Rating" /> </p>
 <br/>
 
 
