@@ -1,18 +1,15 @@
-## Namaste🙏 I'm Rakshit Meshram
-
-![Codewars](https://www.codewars.com/users/triplord/badges/large)
+Hi, I am Rakshit. 
 
 <br/>
-
+Things I do
 
 - 🔭 Learing by Building
-- 🌱 I’m a Python guy, I have hands on experience in building API's and microservices.
+- 🌱 I have dabbed my hands on UI/UX and development both, but I proactively procrastinate on UI
 - 📫 How to reach me: [LinkedIn - @rakshitmeshram](https://in.linkedin.com/in/rakshit-meshram17213)
 
 
 
 [![Linkedin: rakshitmeshram](https://img.shields.io/badge/-rakshitmeshram-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rakshitmeshram/)](https://in.linkedin.com/in/rakshit-meshram17213)
-[![website](https://img.shields.io/badge/PortfolioWebsite-mrakshit.in-2648ff?style=flat-square&logo=google-chrome)](https://mrakshit.in/)
 
 
 **Languages and Tools:**  
@@ -33,12 +30,12 @@
 <a href="https://github.com/RakshitMeshram">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RakshitMeshram&show_icons=true&theme=chartreuse-dark&line_height=27" alt="Rakshit's github stats"/>
 </a>
-<a href="https://github.com/RakshitMeshram/Task-Manager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RakshitMeshram&repo=Task-Manager&theme=chartreuse-dark" />
+<a href="https://github.com/RakshitMeshram/ML-for-Finance">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RakshitMeshram&repo=ML-for-Finance&theme=chartreuse-dark" />
 
 </a>
-<a href="https://github.com/RakshitMeshram/Advanced-Recommender-Systems">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RakshitMeshram&repo=Advanced-Recommender-Systems&theme=chartreuse-dark" />
+<a href="https://github.com/RakshitMeshram/city_surfer">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RakshitMeshram&repo=city_surfer&theme=chartreuse-dark" />
 </a>
 
 </div>
