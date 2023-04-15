@@ -21,6 +21,10 @@ Things I do
 <a href="https://github.com/RakshitMeshram/city_surfer">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RakshitMeshram&repo=city_surfer&theme=chartreuse-dark" />
 </a>
+  
+<a href="https://github.com/RakshitMeshram/machine_learning_finance">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RakshitMeshram&repo=machine_learning_finance&theme=chartreuse-dark" />
+</a>
 
 </div>
 
