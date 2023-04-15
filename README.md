@@ -26,10 +26,7 @@ Things I do
 <a href="https://github.com/RakshitMeshram">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RakshitMeshram&show_icons=true&theme=chartreuse-dark&line_height=27" alt="Rakshit's github stats"/>
 </a>
-<a href="https://github.com/RakshitMeshram/ML-for-Finance">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RakshitMeshram&repo=ML-for-Finance&theme=chartreuse-dark" />
 
-</a>
 <a href="https://github.com/RakshitMeshram/city_surfer">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RakshitMeshram&repo=city_surfer&theme=chartreuse-dark" />
 </a>
