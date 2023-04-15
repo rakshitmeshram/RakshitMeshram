@@ -5,7 +5,7 @@ Things I do
 
 - 🔭 Learing by Building
 - 🌱 I have dabbed my hands on UI/UX and development both, but I proactively procrastinate on UI
-- 📫 How to reach me: [![Linkedin: rakshitmeshram](https://img.shields.io/badge/-rakshitmeshram-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rakshitmeshram/)](https://in.linkedin.com/in/rakshit-meshram17213)
+- 📫 How to reach me: [Linkedin](https://in.linkedin.com/in/rakshit-meshram17213)
 
 
 **Languages and Tools:**  
