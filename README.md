@@ -1,8 +1,8 @@
 Hi, I am Rakshit Meshram. An ambitious software developer, with 1+ year of MERN stack experience, building projects as a freelancer.  
 
-<br/>
-- 📫 How to reach me: [Linkedin](https://in.linkedin.com/in/rakshit-meshram)
-- 🐞Check my portfolio: [Rakshit's Portfolio](https://rakshitmeshram.github.io/)
+Details
+  - 📫 How to reach me: [Linkedin](https://in.linkedin.com/in/rakshit-meshram)
+  - 🐞Check my portfolio: [Rakshit's Portfolio](https://rakshitmeshram.github.io/)
 
 
 </br>
